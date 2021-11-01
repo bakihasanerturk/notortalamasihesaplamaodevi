@@ -1,0 +1,2 @@
+# notortalamasihesaplamaodevi
+Not ortalaması hesaplama
